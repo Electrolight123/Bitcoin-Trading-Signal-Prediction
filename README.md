@@ -109,17 +109,6 @@ A cumulative return chart for model-predicted vs. actual returns highlights mode
 
 ---
 
-## Repository Contents
-
-- `data/`: Contains the dataset used for analysis.
-- `notebooks/`: Contains the main Jupyter Notebook with the analysis, feature engineering, and model implementation.
-- `scripts/`: Includes reusable Python scripts for feature engineering and helper functions.
-- `images/`: Includes visualizations generated during the project.
-- `results/`: Includes backtesting results in CSV format.
-- `README.md`: Overview of the project.
-
----
-
 ## Usage
 
 1. Clone the repository:
