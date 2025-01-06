@@ -130,10 +130,26 @@ A cumulative return chart for model-predicted vs. actual returns highlights mode
 
 ## Acknowledgments
 
-1. Dataset: The dataset is sourced from the Bitstamp Bitcoin price data, which provides valuable historical price data for Bitcoin trading.
+### Acknowledgments
 
-2. Libraries: Technical indicators and machine learning models are implemented using the following Python libraries:
-  - Pandas: For data manipulation and analysis.
-  - NumPy: For numerical operations and handling arrays.
-  - Scikit-learn: For implementing machine learning models and evaluation.
-  - Matplotlib: For data visualization and plotting.
+- **Dataset**: The dataset is sourced from the Bitstamp Bitcoin price data, which provides valuable historical price data for Bitcoin trading.  
+- **Libraries**: Technical indicators and machine learning models are implemented using the following Python libraries:
+  - **Pandas**: For data manipulation and analysis.
+  - **NumPy**: For numerical operations and handling arrays.
+  - **Scikit-learn**: For implementing machine learning models and evaluation.
+  - **Matplotlib**: For data visualization and plotting.
+
+---
+
+### Images
+
+- **Model Performance Visualization**: Includes a **cumulative returns chart** comparing model-predicted returns versus actual returns to evaluate the strategy's effectiveness and risk-adjusted performance.  
+- **Indicator Analysis**: Contains plots of technical indicators such as:
+  - Relative Strength Index (RSI)
+  - Moving Averages (MA)
+  - Stochastic Oscillator  
+- These images demonstrate trends, momentum, and reversal points in the Bitcoin price data, making analysis more intuitive.
+
+```markdown
+![Cumulative Returns](images/cumulative_returns.png)
+![Relative Strength Index](images/rsi_plot.png)
