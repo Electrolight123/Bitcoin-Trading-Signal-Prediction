@@ -22,9 +22,9 @@ The goal of this project is to predict **buy/sell trading signals** for Bitcoin 
 
 ## Role of Machine Learning in Bitcoin Trading
 
-Machine learning has emerged as a valuable tool in Bitcoin trading, allowing traders to use past price data, market indicators, and other variables to train models that predict potential price movements. By incorporating indicators such as moving averages, momentum oscillators, and volatility measures, machine learning models can help identify trends and trading signals.
+- Machine learning has emerged as a valuable tool in Bitcoin trading, allowing traders to use past price data, market indicators, and other variables to train models that predict potential price movements. 
 
-These models are particularly useful in a volatile market like Bitcoin, where price patterns and trends can change quickly.
+- By incorporating indicators such as moving averages, momentum oscillators, and volatility measures, machine learning models can help identify trends and trading signals.These models are particularly useful in a volatile market like Bitcoin, where price patterns and trends can change quickly.
 
 ---
 
