@@ -152,4 +152,3 @@ A cumulative return chart for model-predicted vs. actual returns highlights mode
 
 ```markdown
 ![Cumulative Returns](images/cumulative_returns.png)
-![Relative Strength Index](images/rsi_plot.png)
