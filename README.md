@@ -149,8 +149,6 @@ A cumulative return chart for model-predicted vs. actual returns highlights mode
   - Moving Averages (MA)
   - Stochastic Oscillator  
 - These images demonstrate trends, momentum, and reversal points in the Bitcoin price data, making analysis more intuitive.
-
-```markdown
 ![Variable importance](https://github.com/user-attachments/assets/fcfaa824-e790-402e-a0d5-f082c8abcde2)
 ![Strategy returns](https://github.com/user-attachments/assets/bc4c5213-0495-4035-ab0d-33d431bd7e3a)
 ![cumulative_returns](https://github.com/user-attachments/assets/7d087771-677f-44fd-8756-518ddd5ff53a)
